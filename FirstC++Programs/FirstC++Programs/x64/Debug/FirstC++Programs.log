@@ -1,3 +1,0 @@
-﻿  FirstC++Programs.cpp
-C:\Users\ishak\Desktop\c\FirstC++Programs\FirstC++Programs\FirstC++Programs.cpp(186,27): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
-  FirstC++Programs.vcxproj -> C:\Users\ishak\Desktop\c\FirstC++Programs\x64\Debug\FirstC++Programs.exe
