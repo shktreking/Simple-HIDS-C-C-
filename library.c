@@ -11,8 +11,7 @@
  */
 
 
-    /*
-    DIR *dizin;
+        DIR *dizin;
     struct dirent *dosya;
     int dosya_sayisi = 0;
     char *yol = ".";
@@ -178,5 +177,5 @@ int main() {
                 save_attack_to_json_or_sql(src_ip, "Critical", "Deep Packet Inspection Alert");
             }
         }
-    }*\
+    }
 }
